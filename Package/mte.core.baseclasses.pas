@@ -11,7 +11,7 @@ Uses
   sqldb;
 
 Type
-  TMTEDataSet = Class(TSQLQuery)
+  TMTEDataSet = Class(TObject)
 
   End;
 

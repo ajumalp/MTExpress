@@ -21,7 +21,7 @@
     <License Value="Apache License 2.0
 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."/>
     <Version Major="1" Build="1"/>
-    <Files Count="2">
+    <Files Count="5">
       <Item1>
         <Filename Value="mte.core.baseclasses.pas"/>
         <UnitName Value="mte.core.baseclasses"/>
@@ -31,6 +31,18 @@ A permissive license whose main conditions require preservation of copyright and
         <HasRegisterProc Value="True"/>
         <UnitName Value="mte.core.Register"/>
       </Item2>
+      <Item3>
+        <Filename Value="mte.ui.form.about.pas"/>
+        <UnitName Value="mte.ui.form.about"/>
+      </Item3>
+      <Item4>
+        <Filename Value="mte.utils.pas"/>
+        <UnitName Value="mte.utils"/>
+      </Item4>
+      <Item5>
+        <Filename Value="mte.component.network.pas"/>
+        <UnitName Value="mte.component.network"/>
+      </Item5>
     </Files>
     <RequiredPkgs Count="2">
       <Item1>

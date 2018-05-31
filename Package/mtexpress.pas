@@ -8,7 +8,7 @@ Unit MTExpress;
 Interface
 
 uses
-  mte.core.baseclasses, mte.core.Register, LazarusPackageIntf;
+  mte.core.baseclasses, mte.core.Register, mte.ui.form.about, mte.utils, mte.component.network, LazarusPackageIntf;
 
 implementation
 
