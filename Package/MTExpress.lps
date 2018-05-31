@@ -4,16 +4,115 @@
     <PathDelim Value="\"/>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="1">
+    <Units Count="7">
       <Unit0>
         <Filename Value="MTExpress.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos X="24" Y="5"/>
-        <UsageCount Value="20"/>
-        <Loaded Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="65" Y="11"/>
+        <UsageCount Value="21"/>
       </Unit0>
+      <Unit1>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <CursorPos X="69" Y="16"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.register.pas"/>
+        <UnitName Value="esoft.core.Register"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="127"/>
+        <CursorPos X="13" Y="11"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="mte.core.register.pas"/>
+        <UnitName Value="mte.core.Register"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="31" Y="17"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="22"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="mtexpress.pas"/>
+        <UnitName Value="MTExpress"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="48" Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.register_icon.lrs"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory Count="14" HistoryIndex="13">
+      <Position1>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.register.pas"/>
+        <Caret Line="140" Column="26" TopLine="127"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="23" Column="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="10" Column="6"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="23" Column="36"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.register.pas"/>
+        <Caret Line="51" TopLine="112"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="23" Column="14"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="7" Column="22"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="16" Column="49"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="14" Column="3"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="23" Column="15"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="11" Column="3"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.register.pas"/>
+        <Caret Line="132" Column="41" TopLine="112"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mte.core.register.pas"/>
+        <Caret Line="11" Column="13"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.register.pas"/>
+        <Caret Line="11" Column="13" TopLine="127"/>
+      </Position14>
+    </JumpHistory>
   </ProjectSession>
 </CONFIG>

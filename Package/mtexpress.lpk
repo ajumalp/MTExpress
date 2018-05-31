@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <PathDelim Value="\"/>
+    <Name Value="MTExpress"/>
+    <Type Value="RunAndDesignTime"/>
+    <Author Value="Ajmal Muhammad P"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <Linking>
+        <Debugging>
+          <TrashVariables Value="True"/>
+        </Debugging>
+      </Linking>
+    </CompilerOptions>
+    <Description Value="Multi Tier Express Project. This is a Server and Client Packages for database applications. Server is in Lazarus to support all platform."/>
+    <License Value="Apache License 2.0
+A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."/>
+    <Version Major="1" Build="1"/>
+    <Files Count="2">
+      <Item1>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <UnitName Value="mte.core.baseclasses"/>
+      </Item1>
+      <Item2>
+        <Filename Value="mte.core.register.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="mte.core.Register"/>
+      </Item2>
+    </Files>
+    <RequiredPkgs Count="2">
+      <Item1>
+        <PackageName Value="IDEIntf"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="FCL"/>
+      </Item2>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>
