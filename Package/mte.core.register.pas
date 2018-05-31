@@ -1,5 +1,12 @@
 Unit mte.core.Register;
 
+{----------------------------------------------------------}
+{ Developed by Muhammad Ajmal p }
+{ ajumalp@gmail.com  }
+{ pajmal@hotmail.com }
+{ ajmal@erratums.com }
+{----------------------------------------------------------}
+
 {$mode objfpc}{$H+}
 
 Interface

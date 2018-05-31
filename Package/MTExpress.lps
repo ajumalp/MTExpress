@@ -4,18 +4,17 @@
     <PathDelim Value="\"/>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="16">
+    <Units Count="18">
       <Unit0>
         <Filename Value="MTExpress.lpr"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="65" Y="11"/>
-        <UsageCount Value="22"/>
+        <UsageCount Value="23"/>
       </Unit0>
       <Unit1>
         <Filename Value="mte.core.baseclasses.pas"/>
-        <EditorIndex Value="1"/>
-        <CursorPos X="53" Y="18"/>
+        <CursorPos X="69" Y="15"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit1>
@@ -30,9 +29,8 @@
       <Unit3>
         <Filename Value="mte.core.register.pas"/>
         <UnitName Value="mte.core.Register"/>
-        <EditorIndex Value="2"/>
-        <TopLine Value="53"/>
-        <CursorPos X="75" Y="64"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="10"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit3>
@@ -89,7 +87,7 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="2"/>
         <CursorPos X="5" Y="54"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
@@ -103,17 +101,16 @@
       </Unit12>
       <Unit13>
         <Filename Value="mte.utils.pas"/>
-        <EditorIndex Value="4"/>
-        <CursorPos X="136" Y="22"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="10"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit13>
       <Unit14>
         <Filename Value="mte.component.network.pas"/>
-        <TopLine Value="96"/>
-        <CursorPos X="48" Y="106"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit14>
       <Unit15>
         <Filename Value="C:\lazarus\ide\lazarus.pp"/>
@@ -123,88 +120,95 @@
         <CursorPos Y="161"/>
         <UsageCount Value="10"/>
       </Unit15>
+      <Unit16>
+        <Filename Value="..\..\..\Lazarus\Controls\ESoft\esoft.core.classes.base.pas"/>
+        <UnitName Value="esoft.core.Classes.base"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1032"/>
+        <CursorPos Y="1049"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-objpas\src\inc\variants.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="3" Y="36"/>
+        <UsageCount Value="10"/>
+      </Unit17>
     </Units>
-    <JumpHistory Count="20" HistoryIndex="19">
+    <JumpHistory Count="18" HistoryIndex="17">
       <Position1>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="16" Column="3"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="21"/>
       </Position1>
       <Position2>
-        <Filename Value="mte.core.register.pas"/>
-        <Caret Line="36" Column="24" TopLine="16"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="55" Column="49" TopLine="28"/>
       </Position2>
       <Position3>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="24" Column="26" TopLine="5"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="36" Column="5" TopLine="4"/>
       </Position3>
       <Position4>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="65" Column="3" TopLine="25"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="91" Column="7" TopLine="65"/>
       </Position4>
       <Position5>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="38" Column="17"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="37" Column="16" TopLine="12"/>
       </Position5>
       <Position6>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="67" Column="3" TopLine="59"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="94" Column="8" TopLine="48"/>
       </Position6>
       <Position7>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="23" Column="15" TopLine="11"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="100" Column="32" TopLine="54"/>
       </Position7>
       <Position8>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="112" Column="22" TopLine="62"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="98" Column="21" TopLine="72"/>
       </Position8>
       <Position9>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="38" Column="15"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="98" Column="21" TopLine="72"/>
       </Position9>
       <Position10>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="68" Column="20" TopLine="62"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="27" Column="3"/>
       </Position10>
       <Position11>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="39" Column="15" TopLine="11"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="24" Column="20"/>
       </Position11>
       <Position12>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="73" Column="24" TopLine="63"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="114" Column="36" TopLine="88"/>
       </Position12>
       <Position13>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="41" Column="15" TopLine="12"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="114" Column="36" TopLine="88"/>
       </Position13>
       <Position14>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="78" Column="28" TopLine="63"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="20" Column="12"/>
       </Position14>
       <Position15>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="42" Column="17" TopLine="14"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="140" TopLine="122"/>
       </Position15>
       <Position16>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="88" Column="24" TopLine="68"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="51" TopLine="20"/>
       </Position16>
       <Position17>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="44" Column="16" TopLine="15"/>
+        <Filename Value="mte.core.baseclasses.pas"/>
+        <Caret Line="179" Column="25" TopLine="163"/>
       </Position17>
       <Position18>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="132" Column="23" TopLine="100"/>
-      </Position18>
-      <Position19>
-        <Filename Value="mte.component.network.pas"/>
-        <Caret Line="108" Column="52" TopLine="96"/>
-      </Position19>
-      <Position20>
         <Filename Value="mte.ui.form.about.pas"/>
-        <Caret Line="8" Column="35"/>
-      </Position20>
+        <Caret Line="24" Column="91"/>
+      </Position18>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
